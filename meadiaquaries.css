@@ -46,6 +46,13 @@
         width: 300px;
     } */
 }
+@media screen and (width >=500px){
+#header{
+    padding-block: 20px;
+}
+    #flase{
+        padding-block: 20px;}
+}   
 @media screen and (width  <= 1150px){
     #contect{
         display: none;
